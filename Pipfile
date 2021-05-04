@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 django-bootstrap4 = "*"
+whitenoise = "==5.1.0"
+gunicorn = "==19.9.0"
 
 [dev-packages]
 
